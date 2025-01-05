@@ -1,0 +1,8 @@
+@inproceedings{REPO158,
+    author = "Gao, Shuzheng and Wen, Xin-Cheng and Gao, Cuiyun and Wang, Wenxuan and Zhang, Hongyu and Lyu, Michael R",
+    booktitle = "2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE)",
+    organization = "IEEE",
+    pages = "761--773",
+    title = "{What makes good in-context demonstrations for code intelligence tasks with llms?}",
+    year = "2023"
+}
